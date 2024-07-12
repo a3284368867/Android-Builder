@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "repo": "https://codeberg.org/tataskystudio/android_kernel_xiaomi_thyme",
       "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
@@ -47,7 +47,7 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
+      "repo": "https://codeberg.org/tataskystudio/android_kernel_xiaomi_thyme",
       "branch": "lineage-20.0",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
